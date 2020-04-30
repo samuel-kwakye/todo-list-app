@@ -1,0 +1,21 @@
+
+html, body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.appHeader {
+    padding-top: 150px;
+}
+
+h3{
+    color: blue;
+    margin-bottom: 20px;
+}
+h2{
+    color: green;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
